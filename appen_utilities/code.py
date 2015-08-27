@@ -5,7 +5,7 @@ import simplejson
 import string
 
 
-def getRandomString(length=20, chars=string.ascii_lowercase) -> str:
+def getRandomString(length=10, chars=string.ascii_lowercase) -> str:
 	return "".join(random.choice(chars) for _ in range(length))
 
 
