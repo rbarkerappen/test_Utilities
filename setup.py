@@ -5,7 +5,7 @@ setup(
 	packages=["appen_utilities"],
 	description="These are some test utils",
 	
-	version="2015.8.27.4.45",
+	version="2015.8.27.4.46",
 	
 	url="http://www.appen.com",
 	author="Appen",
