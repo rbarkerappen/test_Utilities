@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
 	name="appen_utilities",
-	packages=["appen_utilities"],
+	packages=["appen_utilities.Audio"],
 	description="These are some test utils",
 	
 	version="${version}",
