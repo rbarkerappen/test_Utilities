@@ -5,7 +5,7 @@ setup(
 	packages=["appen_utilities.Audio"],
 	description="These are some test utils",
 	
-	version="2015.9.29.5.7",
+	version="2015.9.30.1.37",
 	
 	url="http://www.appen.com",
 	author="Appen",
